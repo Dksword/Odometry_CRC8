@@ -1,3 +1,10 @@
+//============================================================================
+// Name        : Serial Port R&W Demo
+// Author      : Frank Zhang
+// Version     : 1.0
+// Email       : zhang.flyer@163.com
+//============================================================================
+
 // Standard includes
 
 #include <string.h>  /* String function definitions */
